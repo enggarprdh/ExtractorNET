@@ -1,0 +1,13 @@
+C:\GitHub\extratorNETF\extrator\extrator\bin\Debug\extrator.exe.config
+C:\GitHub\extratorNETF\extrator\extrator\bin\Debug\extrator.exe
+C:\GitHub\extratorNETF\extrator\extrator\bin\Debug\extrator.pdb
+C:\GitHub\extratorNETF\extrator\extrator\bin\Debug\CommandLine.dll
+C:\GitHub\extratorNETF\extrator\extrator\bin\Debug\CommandLine.xml
+C:\GitHub\extratorNETF\extrator\extrator\obj\Debug\extrator.csproj.AssemblyReference.cache
+C:\GitHub\extratorNETF\extrator\extrator\obj\Debug\extrator.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\extratorNETF\extrator\extrator\obj\Debug\extrator.csproj.CoreCompileInputs.cache
+C:\GitHub\extratorNETF\extrator\extrator\obj\Debug\extrator.csproj.CopyComplete
+C:\GitHub\extratorNETF\extrator\extrator\obj\Debug\extrator.exe
+C:\GitHub\extratorNETF\extrator\extrator\obj\Debug\extrator.pdb
+C:\GitHub\extratorNETF\extrator\extrator\bin\Debug\NLog.dll
+C:\GitHub\extratorNETF\extrator\extrator\bin\Debug\NLog.xml
